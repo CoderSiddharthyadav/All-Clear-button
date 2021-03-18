@@ -1,0 +1,19 @@
+#result{
+    width: 300px;
+    height: 70px;
+    background-color: darkorange;
+    color:whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+}
+#btn{
+    width: 250px;
+    background-color: red;
+    color: aqua;
+    font-size: 40px;
+    font-weight: bold;
+    
+    border: none;
+    margin-left: 24px;
+}
